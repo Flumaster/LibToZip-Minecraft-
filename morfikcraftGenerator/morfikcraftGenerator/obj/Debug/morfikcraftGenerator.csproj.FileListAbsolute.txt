@@ -1,0 +1,9 @@
+c:\users\fluma_000\documents\visual studio 2013\Projects\morfikcraftGenerator\morfikcraftGenerator\obj\Debug\morfikcraftGenerator.csprojResolveAssemblyReference.cache
+c:\users\fluma_000\documents\visual studio 2013\Projects\morfikcraftGenerator\morfikcraftGenerator\obj\Debug\morfikcraftGenerator.Form1.resources
+c:\users\fluma_000\documents\visual studio 2013\Projects\morfikcraftGenerator\morfikcraftGenerator\obj\Debug\morfikcraftGenerator.Properties.Resources.resources
+c:\users\fluma_000\documents\visual studio 2013\Projects\morfikcraftGenerator\morfikcraftGenerator\obj\Debug\morfikcraftGenerator.csproj.GenerateResource.Cache
+c:\users\fluma_000\documents\visual studio 2013\Projects\morfikcraftGenerator\morfikcraftGenerator\bin\Debug\morfikcraftGenerator.exe
+c:\users\fluma_000\documents\visual studio 2013\Projects\morfikcraftGenerator\morfikcraftGenerator\bin\Debug\morfikcraftGenerator.pdb
+c:\users\fluma_000\documents\visual studio 2013\Projects\morfikcraftGenerator\morfikcraftGenerator\bin\Debug\Ionic.Zip.dll
+c:\users\fluma_000\documents\visual studio 2013\Projects\morfikcraftGenerator\morfikcraftGenerator\obj\Debug\morfikcraftGenerator.exe
+c:\users\fluma_000\documents\visual studio 2013\Projects\morfikcraftGenerator\morfikcraftGenerator\obj\Debug\morfikcraftGenerator.pdb
